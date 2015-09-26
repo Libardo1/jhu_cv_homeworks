@@ -15,4 +15,7 @@ The results can be seen on the following picture. On the left is the original fi
 to find and on the right are the images where the objects were detected. The pairs of images show the matched objects
 their orientation on both images and the center of mass of the object.
 
+To run code just `python task_1.py` while bein in the hw_1 directory.
+
 ![Alt text](task_1_results.png?raw=true "Optional Title")
+![Alt text](task_1_results_2.png?raw=true "Optional Title")

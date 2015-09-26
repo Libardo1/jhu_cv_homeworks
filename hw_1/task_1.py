@@ -184,7 +184,7 @@ def p3(overlays):
 def p4():
 
     img_1 = io.imread('two_objects.pgm', as_grey=True)
-    img_2 = io.imread('many_objects_2.pgm', as_grey=True)
+    img_2 = io.imread('many_objects_1.pgm', as_grey=True)
 
     labels_1 = p2(p1(img_1, 110))
     labels_2 = p2(p1(img_2, 110))
