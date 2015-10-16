@@ -16,6 +16,10 @@ for the transformed corners are very different.
 
 Affine transformation didn't worked really well in some cases because it doesn't work in case of projective transformations.
 
+I didn't follow some functions signature specification.
+
+You can find my report at https://github.com/warmspringwinds/jhu_cv_homeworks/tree/master/hw_2
+
 ![Alt text](bikes_1_3.jpg?raw=true "Optional Title")
 ![Alt text](bikes_1_2.jpg?raw=true "Optional Title")
 
