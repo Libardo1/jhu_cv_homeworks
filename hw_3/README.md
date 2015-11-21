@@ -40,3 +40,5 @@ Feature matching
 
 ![Alt text](matches.png?raw=true "Optional Title")
 
+After estimating the fund matrix and drawing epipolar lines all of them were more or less
+horizontal.
