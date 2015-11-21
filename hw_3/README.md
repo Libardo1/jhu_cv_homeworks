@@ -1,3 +1,7 @@
+The file can be easily views here:
+
+https://github.com/warmspringwinds/jhu_cv_homeworks/tree/master/hw_3
+
 # Second Homework
 
 ## Problem 1
