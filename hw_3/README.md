@@ -28,7 +28,10 @@ The depth was estimated and the following depth image was seen as the output.
 
 Theoretical problem.
 
-### Solution can be seen in the enclosed file:
+### Solution
+Can be seen in the enclosed file:
+
+![Alt text](analytical.jpg?raw=true "Optional Title")
 
 ## Problem 4
 
